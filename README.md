@@ -1,4 +1,4 @@
-# HamsterGame
+# Find The Way
 
 Ce petit jeu est le résultat d'une initiation à la programmation des jeux vidéos avec **GML (Game Maker Language)**,
 il a était développé par **ASTeam** en trois jours lors du **ZeGaming DevCam**.
